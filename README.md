@@ -16,7 +16,7 @@
 - `up_till_week_X`: Developmental iterations showing the project's evolution.
 
 ## The Team
-- **Omar Abu Rahmeh** (Technical Lead & Lead Editor)
+- **Omar Abu Rahmeh** 
 - **Jack Dean**
 - **Nahad Salim**
 - **Sulaiman Al Darwish**
